@@ -186,13 +186,17 @@ void update(double dt)
     if (keyPressed[K_ESCAPE])
        g_quitGame = true;
 }
+void craigtest()
+{
 
+}
 void render()
 {
     //clear previous screen
     //colour(0x0F);
     cls();
 
+	
     //render the game
 
     //render test screen code (not efficient at all)
